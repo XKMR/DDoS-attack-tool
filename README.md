@@ -7,4 +7,4 @@ screenshots:
 <br/>
 <img src="data/ss/s1.png"/>
 <br/>
-<img src="data/ss/s1.png"/>
+<img src="data/ss/s2.png"/>
