@@ -1,7 +1,7 @@
 # DDoS-attack-tool
 DDoS attack tool with python and batch.
 
-By XKMR 
+By XKMR          -          this DDoS attack tool is NOT real and it is made to prank friends and stuff
 
 screenshots:
 <br/>
