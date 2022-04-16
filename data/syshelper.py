@@ -287,7 +287,7 @@ print(" ██████   ██████            ██████")
 print(" ██   ██  ██   ██   █████  ██")
 print(" ██   ██  ██   ██  ██   ██  █████ ")
 print(" ██   ██  ██   ██  ██   ██       ██")
-print(" ██████   ██████    █████   ██████    by XKMR")
+print(" ██████   ██████    █████   ██████    by XKMR6")
 print
 print
 print(ip+" is now being attacked by you! form port "+port)
